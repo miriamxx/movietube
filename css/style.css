@@ -5625,7 +5625,7 @@ ul {
 .hero h1 {
   font-family: 'Dosis', sans-serif;
   font-size: 36px;
-  color: #ffffff;
+  color: #8736a2;
   font-weight: 700;
   text-transform: uppercase;
   margin-bottom: 20px;
@@ -5634,7 +5634,7 @@ ul {
   list-style-type: none;
 }
 .hero ul.breadcumb li.active a {
-  color: #4280bf;
+  color: #abb7c4;
 }
 .hero ul.breadcumb li,
 .hero ul.breadcumb a {
@@ -5685,7 +5685,7 @@ ul {
   padding-top: 225px;
 }
 .user-hero .hero-ct h1 {
-  margin-left: -120px;
+  margin-left: -350px;
 }
 .user-hero ul.breadcumb {
   text-align: left;
@@ -5794,10 +5794,10 @@ ul {
   font-size: 16px;
 }
 .user-information {
-  border: 3px solid #0f2133;
+  border: 3px solid black;
   margin-right: 30px;
   margin-top: -200px;
-  background-color: #020d18;
+  background-color: #000000;
   -webkit-border-radius: 5px;
   -moz-border-radius: 5px;
   border-radius: 5px;
@@ -5830,7 +5830,7 @@ ul {
 .user-information ul li a {
   font-family: 'Dosis', sans-serif;
   font-size: 14px;
-  color: #ffffff;
+  color: #8736a2;
   font-weight: bold;
   text-transform: uppercase;
 }
@@ -5841,14 +5841,14 @@ ul {
   color: #dcf836;
 }
 .user-information .user-fav {
-  border-top: 1px solid #0f2133;
+  border-top: 1px solid white;
   padding: 25px 0;
 }
 .user-information .user-fav p {
   padding-left: 25px;
 }
 .page-single {
-  background-color: #020d18;
+  background-color:rgb(0 0 0 / 95%);;
   padding: 75px 0;
 }
 .social-btn {
@@ -6389,8 +6389,8 @@ ul {
 }
 .form-style-1 {
   margin-bottom: 60px;
-  background-color: #0b1a2a;
-  border: 3px solid #0f2133;
+  background-color: black;
+  border: 3px solid black;
   padding: 15px;
 }
 .form-style-1 .form-it {
@@ -6408,10 +6408,10 @@ ul {
 .form-style-1 select {
   font-family: 'Nunito', sans-serif;
   font-size: 12px;
-  color: #abb7c4;
+  color: #000000;
   font-weight: 300;
   text-transform: none;
-  background-color: #233a50;
+  background-color: #ffffff;
   border: none;
   -webkit-border-radius: 3px !important;
   -moz-border-radius: 3px !important;
@@ -6426,7 +6426,7 @@ ul {
   -moz-appearance: none;
   /* Firefox */
   background: url('../images/uploads/drop-icon.png') no-repeat right 20px center;
-  background-color: #233a50;
+  background-color: white;
 }
 @media (max-width: 991px) {
   .form-style-1 select {
@@ -6439,7 +6439,7 @@ ul {
   color: #ffffff;
   font-weight: bold;
   text-transform: uppercase;
-  background: #dd003f;
+  background: #8736a2;
   width: 100%;
 }
 .form-style-1 .group-ip {
@@ -6526,7 +6526,7 @@ ul {
 }
 .user-pro .user {
   padding-bottom: 30px;
-  border-bottom: 1px solid #0f2133;
+  border-bottom: 1px solid white;
 }
 .user-pro .password {
   padding-top: 30px;
