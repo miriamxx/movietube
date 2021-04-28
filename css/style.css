@@ -5913,7 +5913,7 @@ ul {
   -o-transition: all 0.5s ease-out;
   transition: all 0.5s ease-out;
   padding: 12px;
-  background-color: #dd003f;
+  background-color: #8736a2;
   -webkit-border-radius: 3px;
   -moz-border-radius: 3px;
   border-radius: 3px;
@@ -5934,7 +5934,7 @@ ul {
   left: -10px;
   border-bottom: 10px solid transparent;
   border-top: 10px solid transparent;
-  border-right: 10px solid #dd003f;
+  border-right: 10px solid white;
   /* Tam giác phải được đổ màu */
 }
 .social-btn .hover-bnt:hover .hvr-item {
