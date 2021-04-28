@@ -5870,7 +5870,7 @@ ul {
 .social-btn a.parent-btn {
   font-family: 'Dosis', sans-serif;
   font-size: 14px;
-  color: #dd003f;
+  color: #8736a2;
   font-weight: bold;
   text-transform: uppercase;
   margin-right: 35px;
@@ -5886,7 +5886,7 @@ ul {
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
   border-radius: 50%;
-  border: 1px solid #dd003f;
+  border: 1px solid #8736a2;
   margin-right: 10px;
   font-size: 16px;
 }
