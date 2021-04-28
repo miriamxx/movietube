@@ -4768,12 +4768,12 @@ ul {
 .tabs ul.tab-links li a:hover,
 .tabs ul.tab-links-2 li a:hover,
 .tabs ul.tab-links-3 li a:hover {
-  color: #dcf836;
+  color: #8736a2;
 }
 .tabs ul.tab-links li.active a,
 .tabs ul.tab-links-2 li.active a,
 .tabs ul.tab-links-3 li.active a {
-  color: #dcf836;
+  color: #8736a2;
 }
 .tabs ul.tab-links-3 {
   float: right;
